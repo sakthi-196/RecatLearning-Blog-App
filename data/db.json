@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "datetime": "Feb 27,2025 5:47:52 PM",
+      "body": "hello how are you?,This is the project to enhance my CRUD skills in React.I just created this projet as my learning practice"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "datetime": "Feb 27,2025 6:54:59 PM",
+      "body": "just trying another time by creating a new post as second post.Thank You"
+    },
+    {
+      "id": 3,
+      "title": "Third post",
+      "datetime": "Mar 01,2025 6:30:33 PM",
+      "body": "Completed CRUD operation successfully, also implemented useContext hook \n"
+    }
+  ]
+}
